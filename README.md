@@ -54,7 +54,9 @@ Desarrollado por: [Carlos Rodriguez](https://github.com/karlosnava)
 > DB_CONNECTION=sqlite
 
 > DB_DATABASE=C:\xampp\htdocs\\{alianza_nomina}\database\database.sqlite # Asegúrese que la ruta sea absoluta y el archivo exista.
-7. Modifique la variable **FILESYSTEM_DRIVER** a **public** y corra el siguiente comando
+7. Modifique la variable **FILESYSTEM_DRIVER** y asigne el nuevo valor **public** y corra el siguiente comando
 > php artisan storage:link
-8. Corra su servidor local
+8. Corra las migraciones y sus seeders para verificar conexión con el archivo .sqlite
+> php artisan migrate --seed
+9. Corra su servidor local
 > php artisan serve
