@@ -12,11 +12,13 @@ Desarrollado por: [Carlos Rodriguez](https://github.com/karlosnava)
 
 ✅ Sistema de roles (Empleado, personal de nómina y presidente).
 
-✅ Creación, edición, eliminación y listado de puestos de trabajo.
+✅ Creación, edición, eliminación y listado de empleados.
 
 ✅ Creación, edición, eliminación y listado de países.
 
 ✅ Creación, edición, eliminación y listado de ciudades.
+
+✅ Creación, edición, eliminación y listado de puestos de trabajo.
 
 ✅ Componentes reactivos y paginación.
 
