@@ -43,7 +43,8 @@ Desarrollado por: [Carlos Rodriguez](https://github.com/karlosnava)
 1. Clone el repositorio en su entorno local:
 > git clone https://github.com/karlosnava/alianza_nomina.git
 
-2. Instale dependencias npm
+2. Acceda a la carpeta e instale dependencias npm
+> cd alianza_nomina
 > npm install
 3. Instale dependencias composer
 > composer install
@@ -54,7 +55,7 @@ Desarrollado por: [Carlos Rodriguez](https://github.com/karlosnava)
 > DB_CONNECTION=sqlite
 
 > DB_DATABASE=C:\xampp\htdocs\\{alianza_nomina}\database\database.sqlite # Asegúrese que la ruta sea absoluta y el archivo exista.
-7. Modifique la variable **FILESYSTEM_DRIVER** y asigne el nuevo valor **public** y corra el siguiente comando
+7. Modifique la variable **FILESYSTEM_DRIVER** y asigne el nuevo valor **public** y corra el siguiente comando:
 > php artisan storage:link
 8. Corra las migraciones y sus seeders para verificar conexión con el archivo .sqlite
 > php artisan migrate --seed
