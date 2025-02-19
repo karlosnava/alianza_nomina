@@ -18,8 +18,6 @@ Desarrollado por: [Carlos Rodriguez](https://github.com/karlosnava)
 
 ✅ Creación, edición, eliminación y listado de ciudades.
 
-✅ Creación, edición, eliminación y listado de puestos de trabajo.
-
 ✅ Componentes reactivos y paginación.
 
 
