@@ -27,7 +27,7 @@
             <div class="font-semibold mb-2"><i class="fas fa-info-circle text-blue-500"></i> El sistema incluye:</div>
             <div>✅ Sesiones, Middlewares, CSRF, Hashing, Error Handling y validaciones.</div>
             <div>✅ Sistema de roles (Empleado, personal de nómina y presidente).</div>
-            <div>✅ Creación, edición, eliminación y listado de puestos de trabajo.</div>
+            <div>✅ Creación, edición, eliminación y listado de empleados.</div>
             <div>✅ Creación, edición, eliminación y listado de países.</div>
             <div>✅ Creación, edición, eliminación y listado de ciudades.</div>
             <div>✅ Creación, edición, eliminación y listado de puestos de trabajo.</div>
